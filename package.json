@@ -16,5 +16,8 @@
     "@types/node": "^20.10.5",
     "tsc-watch": "^6.0.4",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
   }
 }
